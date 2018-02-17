@@ -30,7 +30,7 @@
   "author": "Sho Hashimoto <hashimoto@shokai.org>",
   "license": "MIT",
   "dependencies": {
-    "serialport": "*",
+    "serialport": "^3.*",
     "eventemitter2": "*",
     "debug": "*"
   },
