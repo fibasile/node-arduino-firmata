@@ -1,7 +1,7 @@
 'use strict'
 
 events = require 'eventemitter2'
-{SerialPort} = serialport = require 'serialport'
+SerialPort = serialport = require 'serialport'
 
 debug = require('debug')('arduino-firmata')
 
